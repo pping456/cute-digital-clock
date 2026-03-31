@@ -10,9 +10,10 @@ This project features dynamic background themes that change automatically based 
 - 🕒 12-hour digital clock (AM/PM format)
 - 🌈 Automatic theme changes based on time:
   - ☀️ Morning / Day theme
+  - ☀️ Day/ Eating theme
   - ☁️ Afternoon sky theme
-  - 🌙 Cozy night theme
-  - 🌌 Midnight dreamy theme
+  - 🌙 evening /study theme
+  - 🌌 cozy night theme
 - 🧸 Cute animated emoji character
 - 🎨 Soft pastel aesthetic UI
 - ⏱️ Real-time updates every second
